@@ -1,4 +1,4 @@
-<h1>Photofolio Application</h1>
+<h1>Gallery-Ellite</h1>
 This is an online photo album project from coding ninjas, where an user can create his/her album and add pictures to it.
 
 <a href="https://photofolio-rajxode.netlify.app/" target="_blank" >Go Live on app</a>
