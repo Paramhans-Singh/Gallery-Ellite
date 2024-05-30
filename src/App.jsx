@@ -7,7 +7,7 @@ function App() {
   useEffect(() => {
     // API call for fetching images
     axios
-      .get("https://picsum.photos/v2/list")
+      .get("https://any-anime.p.rapidapi.com/v1/anime/gif/1")
       .then(function (response) {
         // handle success
         updatePhotoGalleryArray(response.data);
