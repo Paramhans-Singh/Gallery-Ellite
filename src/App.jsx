@@ -7,7 +7,7 @@ function App() {
   useEffect(() => {
     // API call for fetching images
     axios
-      .get("https://any-anime.p.rapidapi.com/v1/anime/gif/1")
+      .get("4uCMiUBseLXALBHm58KzUxC0TpQUOEnRPBl6DxK89SEQ3nGMJSQ7Udwk")
       .then(function (response) {
         // handle success
         updatePhotoGalleryArray(response.data);
