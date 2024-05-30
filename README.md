@@ -14,6 +14,7 @@ Gallery Elite is a sleek and modern photo gallery website built with ReactJS. It
 - **User Interactivity**: Like, share, and comment on images to engage with other users and photographers.
 
 ## Gallery Elite Website Preview
+https://github.com/Paramhans-Singh/Gallery-Ellite/assets/101575816/e06b897c-f5f2-4e58-b17e-2c76d71418f7
 
 ## Usage
 
