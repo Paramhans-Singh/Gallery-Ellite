@@ -7,7 +7,7 @@ function App() {
   useEffect(() => {
     // API call for fetching images
     axios
-      .get("4uCMiUBseLXALBHm58KzUxC0TpQUOEnRPBl6DxK89SEQ3nGMJSQ7Udwk")
+      .get("https://picsum.photos/v2/list")
       .then(function (response) {
         // handle success
         updatePhotoGalleryArray(response.data);
